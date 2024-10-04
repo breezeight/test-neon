@@ -1,3 +1,11 @@
+# Repo Scope
+
+https://console.neon.tech/
+
+I created this repo just to test Neon and see how it works. It's not meant for production, just playing around with disposable Postgres branches and GitHub integration for CI/staging environments.
+
+
+
 # Full Stack FastAPI Template
 
 <a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3ATest" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test/badge.svg" alt="Test"></a>
